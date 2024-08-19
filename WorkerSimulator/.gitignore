@@ -1,0 +1,13 @@
+﻿# Ignore build output directories
+bin/
+obj/
+.idea/
+
+# Ignore solution files
+*.sln
+
+# Ignore project files
+*.csproj
+
+# Ignore user-specific files
+*.csj
